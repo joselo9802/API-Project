@@ -1,0 +1,4 @@
+Notes
+
+To test each of the project's APIs, you need to use the insomnia software.
+

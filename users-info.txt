@@ -1,0 +1,32 @@
+users
+
+superuser
+
+username: admin
+password: Pass@147#
+
+Manager
+
+username: alfred
+pass: pass@147!
+
+Customers
+
+username: brian
+pass: pass@147!
+
+username: thomas
+pass: pass@147!
+
+username: donald
+pass: pass@147!
+
+Delivers Crew
+
+username: daniel
+pass: pass@147!
+
+username: joseph
+pass: pass@147!
+
+
